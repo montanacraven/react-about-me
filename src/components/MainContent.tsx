@@ -15,7 +15,7 @@ function MainContent(): JSX.Element {
     <main>
       <section>
         <h2>About Me</h2>
-        <p>Hi! My name is Montana Craven.</p>
+        <p>Hi! My name is Montana Craven, Hello there !</p>
         <p>
           I currently live in {location.city}, {location.country}.
         </p>
